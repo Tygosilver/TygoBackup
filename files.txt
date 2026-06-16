@@ -1,2 +1,1 @@
-home/vboxuser/webdav-server/
-home/vboxuser/build-pipeline/
+
